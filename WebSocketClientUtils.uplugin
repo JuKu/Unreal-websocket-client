@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "WebSocketClientUtils",
+	"Description": "A plugin to provide blueprints for using the WebSocket Client",
+	"Category": "WebSocket",
+	"CreatedBy": "JuKu",
+	"CreatedByURL": "https://github.com/JuKu/Unreal-websocket-client",
+	"DocsURL": "https://github.com/JuKu/Unreal-websocket-client",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/JuKu/Unreal-websocket-client",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WebSocketClientUtils",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
