@@ -148,3 +148,6 @@ DerivedDataCache/*
 #### Added ####
 Plugins/**/Binaries/**
 Plugins/**/Intermediate/**
+
+Intermediate/**
+Binaries/**
